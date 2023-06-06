@@ -8,6 +8,7 @@
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   overflow: hidden;
+  margin : 0
 }
 .main-title span {
   position: absolute;
@@ -19,7 +20,7 @@
     height: 100%;
     background-color: #d1a753;
 }
-.main-title  h2 {
+.main-title  p {
   font-size: 26px;
   color: white;
   font-weight: 600;
